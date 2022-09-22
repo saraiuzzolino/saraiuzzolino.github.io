@@ -5,7 +5,8 @@
 
 During my first semester at Lehigh, I started as an entry level reporter for the sports beat on The Brown and White. I immediatly fell in love with writing for the paper, and I knew that I wanted to take on an elevated role on the paper. Then, during my second semester, I became an associate editor for the news section. At first, I writing for the news section was challenging, but after I got some practice I learned to love it, and it gave me great experience outside of sports writing. Now, I am an associate editor for the sports section, which has been extremely enjoyable so far. My most recent article was about [Lehigh's Track and Field team's coaching staff changes](https://thebrownandwhite.com/2022/09/07/track-and-field-teams-make-significant-changes-to-coaching-staff/). 
 
-
-
-
 ![image](https://thebrownandwhite.com/wp-content/uploads/2022/03/Headshot-612x1078.jpeg)
+
+## Undergraduate Residence at Lehigh in Fall 2019 Infographic
+This is an infographic created using Canva that shows the Undergraduate Residence data at Lehigh University during the fall of 2019. The data is from the [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) at Lehigh University. This data shows that a majority of students live in on-campus residence halls and off-campus, with a small percentage living in sorority and fraternity residences. 
+
