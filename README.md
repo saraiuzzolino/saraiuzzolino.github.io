@@ -10,3 +10,4 @@ During my first semester at Lehigh, I started as an entry level reporter for the
 ## Undergraduate Residence at Lehigh in Fall 2019 Infographic
 This is an infographic created using Canva that shows the Undergraduate Residence data at Lehigh University during the fall of 2019. The data is from the [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) at Lehigh University. This data shows that a majority of students live in on-campus residence halls and off-campus, with a small percentage living in sorority and fraternity residences. 
 
+![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/infographic%20in%20class%20.png?raw=truez)
