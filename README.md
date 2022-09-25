@@ -14,6 +14,6 @@ This is an infographic created using Canva that shows the Undergraduate Residenc
 
 ##  Global Prevalance of Celiac Disease Infographic 
 This is an infographic created using Canva that shows the prevalence of Celiac Disease in the population of each continent of the world. This data is from [The Celiac Foundation](https://celiac.org/about-the-foundation/featured-news/2018/08/global-prevalence-of-celiac-disease/#:~:text=The%20results%20of%20the%20meta,0.8%25%20in%20Europe%20and%20Oceania.). I chose to research this topic because I have Celiac Disease, and I was curious as to how many people worldwide are affected by it. In order to access this data, I started with a general search into google, and  According to this data, 0.7% of the global population has Celiac Disease, and it is most commonly diagnosed in Europe and Oceania (where 0.8% of the population has Celiac Disease). 
-![image](https://www.canva.com/design/DAFNFZyPs9Q/1Ayj_Iu95PrtGmnKYIXCtQ/edit?utm_content=DAFNFZyPs9Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![image](file:///Users/saraiuzzolino/Downloads/Celiac%20Infographic%20.png)
 
 
