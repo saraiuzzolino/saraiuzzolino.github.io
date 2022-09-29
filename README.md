@@ -18,4 +18,5 @@ This is an infographic created using Canva that shows the prevalence of Celiac D
 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Celiac%20Infographic%20.png)
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1oiZ4cr4fWUUjfu40gY7itcwJKffKX1IIXfEX7biojCU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
