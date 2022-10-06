@@ -28,3 +28,5 @@ First-year Undergraduate Enrollment By College at Lehigh University Chart
 ## Lehigh University First-Year Enrollment Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/First-Year_Undergraduate_Enrollment_By_College_at_Lehigh_University_Undergraduate_Enrollment__chartbuilder.png?raw=true)
 
+## Percentage of Lehigh Undergradutes Involved in Greek Life By Year Chart 
+![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Percentage_of_Undergraduate_Students_Involved_in_Greek_Life_at_Lehigh_Percentage_of_Greek_Undergraduates__chartbuilder%20(1).png?raw=true)
