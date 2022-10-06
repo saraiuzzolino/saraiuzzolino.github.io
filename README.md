@@ -25,6 +25,6 @@ First-year Undergraduate Enrollment By College at Lehigh University Chart
 ## Jonas Brothers Reunion Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1j_Hvm18-DHj3kxPDzREsoAKrNIimILo2mdzQAEB14Cs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-
+## Lehigh University First-Year Enrollment Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/First-Year_Undergraduate_Enrollment_By_College_at_Lehigh_University_Undergraduate_Enrollment__chartbuilder.png?raw=true)
 
