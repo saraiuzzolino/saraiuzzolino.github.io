@@ -31,3 +31,6 @@ First-year Undergraduate Enrollment By College at Lehigh University Chart
 ## Percentage of Lehigh Undergradutes Involved in Greek Life Per Year Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Percentage_of_Undergraduate_Students_Involved_in_Greek_Life_at_Lehigh_Percentage_of_Greek_Undergraduates__chartbuilder%20(1).png?raw=true)
   From this data I was able to conclude that about one third of the Lehigh student body has been involved in Greek Life during any given year over the past five years. It was also evident that the percentage of students involved in Greek Life at Lehigh University has remained relatively consistent over the past five years. This is because the range of the data is only 3.9%. In the chart, it appears that Greek Life participation at Lehigh was at its lowest in 2020 (29.6%), however, since then there has been an upward trend in participation. This made me wonder if the COVID-19 pandemic had an impact on Greek Life involvement on Lehigh's campus. Overall, this data illustrated the significance of Greek Life's presence at Lehigh Univeristy.  
+  
+  ## Undergraduate Enrollment by College at Lehigh University Chart 
+  
