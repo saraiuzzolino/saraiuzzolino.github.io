@@ -34,3 +34,5 @@ First-year Undergraduate Enrollment By College at Lehigh University Chart
   
   ##  Percentage of Undergraduate Enrollment by College at Lehigh University Chart 
   ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Percentage_of_Undergraduate_Enrollment_by_College_at_Lehigh_University__Arts_and_Sciences__Business__Engineering_chartbuilder%20(1).png?raw=true)
+  ## GDP Per Capita (by thousands) vs. Life Satisfaction Chart 
+  ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/GDP_Per_Capita_(by_thousands)_vs._Life_Satisfaction__Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
