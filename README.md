@@ -37,3 +37,5 @@ First-year Undergraduate Enrollment By College at Lehigh University Chart
   ## GDP Per Capita (by thousands) vs. Life Satisfaction Chart 
   ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/GDP_Per_Capita_(by_thousands)_vs._Life_Satisfaction__Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
   Before looking at my chart, it is crucial to understand that the GDP per capita is by thousands (I had to simplify the numbers in the chart for aesthetic purposes). This chart indicates that there is somewhat of a correlation between GDP per capita and life satisfaction. In my chart, it seems that if an individual has a higher GDP per capita, they also have a higher life satisfcation. While this is not a perfect correlation, it is definitely something of note. There is one clear outlier in the data set and I am curious as to why this is the case. 
+## Acceptace Rate by Year at Lehigh University Chart 
+![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Acceptance_Rate_by_Year_at_Lehigh_University__Acceptance_Rate__chartbuilder%20(1).png?raw=true)
