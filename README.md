@@ -17,6 +17,7 @@ This is an infographic created using Canva that shows the prevalence of Celiac D
 
 First-year Undergraduate Enrollment By College at Lehigh University Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Celiac%20Infographic%20.png?raw=true)
+
 This data is from the [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) at Lehigh University.
 
 ## Lehigh vs. Lafayette Football Rivalry Timeline
