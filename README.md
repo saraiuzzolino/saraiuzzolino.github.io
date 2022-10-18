@@ -24,9 +24,7 @@ This is an infographic created using Canva that shows the prevalence of Celiac D
 
 ## Lehigh University First-Year Enrollment Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/First-Year_Undergraduate_Enrollment_By_College_at_Lehigh_University_Undergraduate_Enrollment__chartbuilder.png?raw=true)
-This data is from from the [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) at Lehigh University.
-
-
+This data is from from [Lehigh's Fall 2021 institutional profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf) 
 ## Percentage of Lehigh Undergradutes Involved in Greek Life Per Year Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Percentage_of_Undergraduate_Students_Involved_in_Greek_Life_at_Lehigh_Percentage_of_Greek_Undergraduates__chartbuilder%20(1).png?raw=true)
   From this data I was able to conclude that about one third of the Lehigh student body has been involved in Greek Life during any given year over the past five years. It was also evident that the percentage of students involved in Greek Life at Lehigh University has remained relatively consistent over the past five years. This is because the range of the data is only 3.9%. In the chart, it appears that Greek Life participation at Lehigh was at its lowest in 2020 (29.6%), however, since then there has been an upward trend in participation. This made me wonder if the COVID-19 pandemic had an impact on Greek Life involvement on Lehigh's campus. Overall, this data illustrated the significance of Greek Life's presence at Lehigh Univeristy.  
