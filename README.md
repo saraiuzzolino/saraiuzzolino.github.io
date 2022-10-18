@@ -25,6 +25,8 @@ This is an infographic created using Canva that shows the prevalence of Celiac D
 ## Jonas Brothers Reunion Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1j_Hvm18-DHj3kxPDzREsoAKrNIimILo2mdzQAEB14Cs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+This timeline was creating using information from the Insider article [From 'Year 3000' to 'Sucker,' here's how the Jonas Brothers' careers have evolved](https://www.insider.com/the-jonas-brothers-career-timeline-2019-3)
+
 ## Lehigh University First-Year Enrollment Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/First-Year_Undergraduate_Enrollment_By_College_at_Lehigh_University_Undergraduate_Enrollment__chartbuilder.png?raw=true)
 This data is from from [Lehigh's Fall 2021 institutional profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf) 
