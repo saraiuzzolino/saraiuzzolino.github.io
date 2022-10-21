@@ -47,4 +47,7 @@ This data is from from [Lehigh's Fall 2021 institutional profile](https://oirsa.
 For this project, I decided to research how the acceptance rate of admission into Lehigh has changed over the years since I have heard rumors that the university is trying to expand. In order to acquire this data, I consulted Lehigh's Office of Institutional Research & Strategic Analytics, and I was able to retrieve data dating back to 2010. This data shows a downward trend from 2010 (37.9%) to 2018 (22.3%), except for in 2014 where there was a slight increase in the acceptance rate. The chart also illustrates a drastic increase in acceptance rate from 22.3% in 2018 to 49.5% in 2020. I thought this was really interesting and it made me wonder if the COVID-19 pandemic had any impact on the rates of acceptance at Lehigh. Since the acceptance rate at Lehigh has increased dramatically in recent years, I can conclude that it is likely that the university is expanding since they are accepting many more students than they have in the past. This data was collecte from Lehigh's [Office of Institutional Research & Strategical Analytics' Incoming Class Summaries](https://oirsa.lehigh.edu/incoming-class-summaries)  
 
 ## Top 20 Cycling Countries Map 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1R5mK3Es-1NxOGiaKhULClt_r5FG4iK0&ehbc=2E312F" width="640" height="480"></iframe> 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1R5mK3Es-1NxOGiaKhULClt_r5FG4iK0&ehbc=2E312F" width="640" height="480"></iframe>
+
+## Top 10 Travel Destinations for Celiacs Map 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qdgM0v0S0CcUtadL5OA_YEuFImI8TjQ&ehbc=2E312F" width="640" height="480"></iframe> 
