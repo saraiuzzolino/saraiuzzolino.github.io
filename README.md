@@ -8,9 +8,10 @@ During my first semester at Lehigh, I started as an entry level reporter for the
 ![image](https://thebrownandwhite.com/wp-content/uploads/2022/03/Headshot-612x1078.jpeg)
 
 ## Undergraduate Residence at Lehigh University Fall 2019 Infographic
-This is an infographic created using Canva that shows the Undergraduate Residence data at Lehigh University during the fall of 2019. The data is from the [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) at Lehigh University. This data shows that a majority of students live in on-campus residence halls and off-campus, with a small percentage living in sorority and fraternity residences. 
 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/infographic%20in%20class%20.png?raw=truez)
+
+This is an infographic created using Canva that shows the Undergraduate Residence data at Lehigh University during the fall of 2019. The data is from the [Office of Institutional Research & Strategic Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf) at Lehigh University. This data shows that a majority of students live in on-campus residence halls and off-campus, with a small percentage living in sorority and fraternity residences. 
 
 ##  Global Prevalance of Celiac Disease Infographic 
 
@@ -21,23 +22,22 @@ This is an infographic created using Canva that shows the prevalence of Celiac D
 ## Lehigh vs. Lafayette Football Rivalry Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1oiZ4cr4fWUUjfu40gY7itcwJKffKX1IIXfEX7biojCU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+This timeline was created using information presented during class. The graphic takes the reader through a history of one of college football's greatest rivalries: Lehigh vs. Lafayette. The teams have faced each other every year for over 150 years, so naturally there have been many unforgettable moments, which are highlighted in the timeline that I have created. 
 
 ## Jonas Brothers Reunion Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1j_Hvm18-DHj3kxPDzREsoAKrNIimILo2mdzQAEB14Cs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-This timeline was creating using information from the Insider article [From 'Year 3000' to 'Sucker,' here's how the Jonas Brothers' careers have evolved](https://www.insider.com/the-jonas-brothers-career-timeline-2019-3)
+This timeline was creating using information from the Insider article [From 'Year 3000' to 'Sucker,' here's how the Jonas Brothers' careers have evolved](https://www.insider.com/the-jonas-brothers-career-timeline-2019-3). The Jonas Brothers have been my favorite band since I was a little girl, and since they have such a unique story about breaking up and reuniting years later, I thought they would be an interesting group to make a timeline about. This graphic takes the reader through the highs and the lows of the groups success, inlcluding how they got their start and how they ended up coming back together in 2019. 
 
 ## Lehigh University First-Year Enrollment Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/First-Year_Undergraduate_Enrollment_By_College_at_Lehigh_University_Undergraduate_Enrollment__chartbuilder.png?raw=true)
-This data is from from [Lehigh's Fall 2021 institutional profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf) 
+This data is from from [Lehigh's Fall 2021 institutional profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf). According to this data, the majority of students at Lehigh are enrolled in the College of Arts and Sciences. This finding was no surprising to me since this college offers the most wide variety of majors, so it makes sense that 44% of the student body is enrolled in the college. Furthermore, the College of Engineering had the second highest enrollment percentage, which I thought made sense since Lehigh is know for being an engineering school. 
+
 ## Percentage of Lehigh Undergradutes Involved in Greek Life Per Year Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Percentage_of_Undergraduate_Students_Involved_in_Greek_Life_at_Lehigh_Percentage_of_Greek_Undergraduates__chartbuilder%20(1).png?raw=true)
   From this data I was able to conclude that about one third of the Lehigh student body has been involved in Greek Life during any given year over the past five years. It was also evident that the percentage of students involved in Greek Life at Lehigh University has remained relatively consistent over the past five years. This is because the range of the data is only 3.9%. In the chart, it appears that Greek Life participation at Lehigh was at its lowest in 2020 (29.6%), however, since then there has been an upward trend in participation. This made me wonder if the COVID-19 pandemic had an impact on Greek Life involvement on Lehigh's campus. Overall, this data illustrated the significance of Greek Life's presence at Lehigh Univeristy. This data was collected from Lehigh's [Fraternity & Sorority Statistics and Trends Analysis](https://studentaffairs.lehigh.edu/sites/studentaffairs.lehigh.edu/files/offices/ofsa/docs/trendanalysis/Statistics%20and%20Trend%20Report%20S22.pdf)   
   
-  ## Percentage of Undergraduate Enrollment by College at Lehigh University Chart 
-  ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Percentage_of_Undergraduate_Enrollment_by_College_at_Lehigh_University__Arts_and_Sciences__Business__Engineering_chartbuilder%20(1).png?raw=true)
-  
-  This data was collected using five years from Lehigh's [institutional profile](https://oirsa.lehigh.edu/university-profile) 
+ 
   ## GDP Per Capita (by thousands) vs. Life Satisfaction Chart 
   ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/GDP_Per_Capita_(by_thousands)_vs._Life_Satisfaction__Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
   Before looking at my chart, it is crucial to understand that the GDP per capita is by thousands (I had to simplify the numbers in the chart for aesthetic purposes). This chart indicates that there is somewhat of a correlation between GDP per capita and life satisfaction. In my chart, it seems that if an individual has a higher GDP per capita, they also have a higher life satisfcation. While this is not a perfect correlation, it is definitely something of note. There is one clear outlier in the data set and I am curious as to why this is the case. This data was collected from the [2017 Life Satisfaction and GDP per capita dataset](https://docs.google.com/spreadsheets/d/1GqouSzpED6AiwiO778FcIerDmM27A0sXcteGO7Dvad8/edit?usp=sharing)
