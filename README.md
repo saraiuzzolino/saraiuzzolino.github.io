@@ -22,7 +22,7 @@
 ## Lehigh vs. Lafayette Football Rivalry Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1oiZ4cr4fWUUjfu40gY7itcwJKffKX1IIXfEX7biojCU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
-  This timeline was created using textual information from [Wikipedia](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh) and photo credits can be found within the timeline. The graphic takes the reader through a history of one of college football's greatest rivalries: Lehigh vs. Lafayette. The teams have faced each other every year for over 150 years, so naturally there have been many unforgettable moments, which are highlighted in the timeline that I have created. 
+  This timeline was created using textual information from [Wikipedia](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh)) and photo credits can be found within the timeline. The graphic takes the reader through a history of one of college football's greatest rivalries: Lehigh vs. Lafayette. The teams have faced each other every year for over 150 years, so naturally there have been many unforgettable moments, which are highlighted in the timeline that I have created. 
 
 ## Jonas Brothers Reunion Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1j_Hvm18-DHj3kxPDzREsoAKrNIimILo2mdzQAEB14Cs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
