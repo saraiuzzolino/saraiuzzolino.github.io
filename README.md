@@ -31,7 +31,7 @@
 
 ## Lehigh University First-Year Enrollment Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/First-Year_Undergraduate_Enrollment_By_College_at_Lehigh_University_Undergraduate_Enrollment__chartbuilder.png?raw=true)
-  This data is from from [Lehigh's Fall 2021 institutional profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf). According to this data, the majority of students at Lehigh are enrolled in the College of Arts and Sciences. This finding was not surprising to me since this college offers the most wide variety of majors, so it makes sense that 44% of the student body is enrolled in the college. Furthermore, the College of Engineering had the second highest enrollment percentage, which I thought made sense since Lehigh is know for being an engineering school. 
+  This data is from from [Lehigh's Fall 2021 institutional profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf). According to this data, the majority of students at Lehigh are enrolled in the College of Arts and Sciences. This finding was not surprising to me since this college offers the most wide variety of majors, so it makes sense that 44% of the student body is enrolled in the college. Furthermore, the College of Engineering had the second highest enrollment percentage, which I thought made sense since Lehigh is known for being an engineering school. 
 
 ## Percentage of Lehigh Undergradutes Involved in Greek Life Per Year Chart 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Percentage_of_Undergraduate_Students_Involved_in_Greek_Life_at_Lehigh_Percentage_of_Greek_Undergraduates__chartbuilder%20(1).png?raw=true)
