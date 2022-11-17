@@ -3,6 +3,8 @@
 ## Introduction Comic 
 ![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Github%20comic%20.jpg?raw=true) 
 
+This is a comic that I created using the platoform Pixton. For this project, I created an introduction for my GitHub page using a comic strip. The purpose of this project is to introduce the audience to myself as well as what I will be presenting on my website.  
+
 
 ## Personal Introduction
 
