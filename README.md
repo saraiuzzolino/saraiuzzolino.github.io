@@ -1,6 +1,7 @@
 # saraiuzzolino.github.io
 
 ## Introduction Comic 
+![image](https://github.com/saraiuzzolino/saraiuzzolino.github.io/blob/main/Github%20comic%20.jpg?raw=true) 
 
 
 ## Personal Introduction
