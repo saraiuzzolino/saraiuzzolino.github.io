@@ -1,4 +1,8 @@
 # saraiuzzolino.github.io
+
+## Introduction Comic 
+
+
 ## Personal Introduction
 
   My name is Sara Iuzzolino and I am a sophomore at Lehigh University. I am originally from Chatham, New Jersey, which is about an hour east of Lehigh. I have a twin brother named Nate and I have a dog named Harper. At Lehigh, I am a declared journalism major, and I plan on pursuing a second major in marketing. I decided to pursue journalism mostly because of my interest in sports journalism. My dream career is to work as a reporter/writer for a professional sports team, specifically for a Major League Baseball team. My interest in sports reporting stems from my love for sports and my passion for writing. Growing up, I was always involved with sports (such as softball, volleyball, and soccer), and when I was not playing sports, I was watching them with my family. I decided to attend Lehigh University because of its award winning newspaper, [The Brown and White](https://thebrownandwhite.com/). I hoped that the experience working on the newspaper would help me get closer to achieving my career goals. 
